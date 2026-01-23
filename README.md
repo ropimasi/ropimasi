@@ -6,16 +6,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ropimasi/">
+  <a href="https://www.linkedin.com/in/ropimasi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@ropimasi">
+  <a href="https://www.youtube.com/@ropimasi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/ropimasi">
+  <a href="https://twitter.com/ropimasi" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://www.instagram.com/ropimasi/">
+  <a href="https://www.instagram.com/ropimasi/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
@@ -38,7 +38,7 @@ I'm Ronaldo Silva from Brazil, São Paulo, São José do Rio Preto.<br><br>
 </p>
 
 ###  
-
+<p align="left"> &nbsp; </p>
 ###  
 
 <h3 align="left">🛠 Language and tools</h3>
@@ -78,9 +78,6 @@ I'm Ronaldo Silva from Brazil, São Paulo, São José do Rio Preto.<br><br>
 ###
 
 ###
-
-###
-
 
 
 
