@@ -32,7 +32,7 @@
 
 <p align="left">
 I'm Ronaldo Silva from Brazil, São Paulo, São José do Rio Preto.<br><br>
-- 🔭 I’m working as java Developer<br>
+- 🔭 I’m working as Java developer<br>
 - 📚 I'm currently learning Spring API development<br>
 - ⚡ In my free time I'm studing Clean Code
 </p>
@@ -40,6 +40,8 @@ I'm Ronaldo Silva from Brazil, São Paulo, São José do Rio Preto.<br><br>
 ###  
 
 <p align="left"> &nbsp; </p>
+
+###
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -77,6 +79,16 @@ I'm Ronaldo Silva from Brazil, São Paulo, São José do Rio Preto.<br><br>
 
 ###
 
+<p align="left"> &nbsp; </p>
+
+###
+
+<h3 align="left">📚 Projects</h3>
+
+###
+
+Below are pinned my main projects. Take a look at them. If you have any questions, please contact me.
+
 ###
 
 
@@ -93,5 +105,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🏢 Working at ...
+- 📚 Programming Language: ...
 - ⚡ Fun fact: ...
 -->
