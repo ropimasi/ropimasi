@@ -38,8 +38,8 @@ I'm Ronaldo Silva from Brazil, São Paulo, São José do Rio Preto.<br><br>
 </p>
 
 ###  
+
 <p align="left"> &nbsp; </p>
-###  
 
 <h3 align="left">🛠 Language and tools</h3>
 
